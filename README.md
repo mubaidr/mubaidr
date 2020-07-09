@@ -1,5 +1,8 @@
 ### Hi there 👋
+Web developer with more than 4 years of well-rounded experience with a degree in the Computer & Information Sciences, love for coffee and passionate about open source.
 
+
+Looking for an opportunity to work and upgrade, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community.
 <!--
 **mubaidr/mubaidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
