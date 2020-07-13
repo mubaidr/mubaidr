@@ -3,6 +3,9 @@ I am a web developer with more than 4 years of experience and a degree in the Co
 
 
 Looking for an opportunity to work and upgrade, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community.
+
+[![Linkedin: mubaidr](https://img.shields.io/badge/-mubaidr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubaidr/)](https://www.linkedin.com/in/mubaidr/) [![Twitter: mubaidr](https://img.shields.io/twitter/follow/mubaidr?style=social)](https://twitter.com/mubaidr)
+
 <!--
 **mubaidr/mubaidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
