@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   push: {branches: "master"}
 jobs:
   github-metrics:
@@ -32,3 +32,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
