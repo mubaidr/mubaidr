@@ -6,7 +6,7 @@ Looking for an opportunity to work and upgrade, as well as being involved in an 
 
 <br/>
 
-[![Linkedin: mubaidr](https://img.shields.io/badge/-mubaidr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubaidr/)](https://www.linkedin.com/in/mubaidr/) [![Twitter: mubaidr](https://img.shields.io/twitter/follow/mubaidr?style=social)](https://twitter.com/mubaidr)
+[![Linkedin: mubaidr](https://img.shields.io/badge/-mubaidr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubaidr/)](https://www.linkedin.com/in/mubaidr/)
 
 <!--
 **mubaidr/mubaidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
