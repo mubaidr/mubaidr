@@ -1,6 +1,6 @@
-### Hi there 👋
+### Muhammad Ubaid Raza
 
-I am a web developer with more than 4 years of experience and a degree in Computer & Information Sciences, love for coffee and passionate about open source. 
+Web developer with more than 5 years of experience and a degree in Computer & Information Sciences, love for coffee and passionate about open source. 
 
 <br />
 
@@ -12,4 +12,4 @@ I am a web developer with more than 4 years of experience and a degree in Comput
 
 <br />
 
-![Metrics](https://metrics.lecoq.io/mubaidr?template=classic&repositories=200&repositories.forks=true&languages=1&introduction=1&habits=1&people=1&followup=1&traffic=1&achievements=1&notable=1&support=1&skyline=1&pagespeed=1&nightscout=1&languages.limit=24&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=true&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FKarachi)
+![github-metrics](./github-metrics.svg)
