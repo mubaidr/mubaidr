@@ -1,4 +1,4 @@
-**Web developer with more than 5 years of experience and a degree in Computer & Information Sciences, love for coffee and passionate about open source.**
+**Web developer with more than 5 years of experience and a degree in Computer & Information Sciences, love for coffee and passion for open source products.**
 
 <br />
 
