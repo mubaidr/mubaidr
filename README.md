@@ -13,7 +13,7 @@
   <br />
 
   <img
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mubaidr&height=60"
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?branding=false&username=mubaidr&height=64"
   />
 
   <img
