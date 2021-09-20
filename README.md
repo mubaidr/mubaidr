@@ -14,11 +14,11 @@
 
  <a href="https://profile.codersrank.io/user/mubaidr" target="_blank"> 
   <img
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?branding=false&username=mubaidr&height=64"
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?branding=false&username=mubaidr&height=32"
   />
 
   <img
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mubaidr&badges=5&show-avatar=false&show-header=false"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?branding=false&widget=summary&username=mubaidr&badges=5&show-avatar=false&show-header=false"
   />
  </a>
 
