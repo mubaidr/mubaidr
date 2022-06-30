@@ -9,6 +9,7 @@
   <a href="https://twitter.com/mubaidr" target="_blank"><img src="https://img.shields.io/twitter/follow/mubaidr?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/mubaidr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/sponsors/mubaidr" target="_blank"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
+  <a href="https://www.freelancer.com/affiliates/email/12056391/"><img src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png"> Hire me on Freelancer.com</a>
 
   <br />
 
