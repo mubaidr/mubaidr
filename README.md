@@ -1,6 +1,6 @@
 <p align="center">
 
-  **Web developer with more than 5 years of experience and a degree in Computer & Information Sciences, love for coffee and passion for open source products.**
+  **Web developer with comprehensive full stack web application developement experience and a degree in Computer & Information Sciences, love for coffee and passion for open source products.**
 
   <br />
 
