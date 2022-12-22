@@ -60,7 +60,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: mubaidr.github.io
+          plugin_pagespeed_url: mubaidr.js.org
           
           # plugin_people: yes
           # plugin_people_limit: 24
@@ -72,12 +72,12 @@ jobs:
           # plugin_skyline_quality: 0.5
           # plugin_skyline_year: current-year
           
-          plugin_support: yes
+          # plugin_support: yes
           
           # plugin_traffic: yes
           
           plugin_code: yes
-          plugin_code_languages: javascript, typescript
+          plugin_code_languages: javascript, typescript, vue, sql
           plugin_code_load: 400
           
           repositories: 250
