@@ -13,15 +13,8 @@
 
   <br />
 
- <a href="https://profile.codersrank.io/user/mubaidr" target="_blank"> 
-  <img
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?branding=false&widget=summary&username=mubaidr"
-  />
-  <img
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?branding=false&username=mubaidr&height=32"
-  />
- </a>
-
- ![github-metrics](./github-metrics.svg)
+ <picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+ </picture>
 
 </p>
