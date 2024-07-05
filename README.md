@@ -23,8 +23,8 @@ Web application developer with comprehensive full stack web application develope
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer-production-df4c.up.railway.app" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://random-memer-production-df4c.up.railway.app" width="512px"/> -->
 
 ---
 
