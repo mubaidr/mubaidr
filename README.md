@@ -1,3 +1,7 @@
+<p class="text-align: center;" align="center">
+  Personal Site ▪ <a href="https://mubaidr.js.org">mubaidr.js.org</a>
+</p>
+
 # Hey there!
 
 👋🏼 I’m Muhammad Ubaid Raza, a Software Engineer with 8+ years of experience.
