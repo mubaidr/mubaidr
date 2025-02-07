@@ -1,3 +1,6 @@
-<p class="text-align: center;" align="center">
-  <a href="https://mubaidr.js.org">mubaidr.js.org</a>
-</p>
+<div align="center">
+
+# Hi, there! 👋  
+
+[![🌐 Visit My Website](https://img.shields.io/badge/-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mubaidr.js.org)
+</div>
