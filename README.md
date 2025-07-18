@@ -1,6 +1,15 @@
 <div align="center">
 
-# Hi, there! 👋  
+<h1>Hi there! 👋</h1>
 
-[![🌐 Visit My Website](https://img.shields.io/badge/-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mubaidr.js.org)
+<h3>I'm <strong>Muhammad Ubaid Raza</strong></h3>
+
+<p>
+Senior Software Engineer crafting clean, modular web apps with TypeScript, Nuxt, Vue, Tailwind, and more.
+</p>
+
+<p>
+<a href="https://mubaidr.js.org"><strong>🌐 mubaidr.js.org</strong></a>
+</p>
+
 </div>
