@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there! 👋</h1>
+<h1>Hi there! </h1>
 
 <p>
 Senior Software Engineer crafting clean, modular web apps with TypeScript, Nuxt, Vue, Tailwind, and more.
